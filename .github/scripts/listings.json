@@ -1199,15 +1199,15 @@
   },
   {
     "id": "a5430004-84a5-4b4e-992b-cdee162b3d96",
-    "company_name": "Qualtrics",
-    "title": "Qualtrics Survey",
+    "company_name": "Fidelity Investments",
+    "title": "FidHacks",
     "url": "https://fmr.co1.qualtrics.com/jfe/form/SV_0w6U13HT35susvQ?gh_src=Handshake&iisn=Handshake&iis=Handshake&src=Handshake&source=Handshake&ref=Handshake&referral=Handshake&__jvst=Handshake&__jvsd=Handshake&sourceDetails=Handshake&trid=Handshake&lever-source%5B%5D=Handshake&Source=Handshake&rb=Handshake&jobBoardSource=Handshake&channel=Handshake&rcid=Handshake",
     "locations": [
       "Multiple Locations"
     ],
     "season": "Multiple",
     "category": "Program",
-    "opportunity_type": "Survey",
+    "opportunity_type": "Hackathon",
     "target_year": [
       "Freshman (1st year)",
       "Sophomore (2nd year)"
