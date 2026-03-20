@@ -1373,5 +1373,27 @@
     "date_posted": 1773981080,
     "date_updated": 1773981080,
     "source": "Jose-Gael-Cruz-Lopez"
+  },
+  {
+    "id": "a7d0d094-13e1-4b66-9c00-16e216b2840b",
+    "company_name": "Nike",
+    "title": "Yello",
+    "url": "https://nike.recsolu.com/app/collect/event/974UJGB_-KHxLIGzGEzQhg?fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnEJwpmrGoNKX55J_-FC1qS5CHyplAbjAXNJ7rsF50GNFVzB7SYihMT-LF8nk_aem_f1EPeZPImWuAl49GlXni0g",
+    "locations": [
+      "Multiple Locations"
+    ],
+    "season": "Multiple",
+    "category": "Program",
+    "opportunity_type": "Program",
+    "target_year": [
+      "Freshman (1st year)",
+      "Sophomore (2nd year)"
+    ],
+    "sponsorship": "Not Specified",
+    "active": true,
+    "is_visible": true,
+    "date_posted": 1774041985,
+    "date_updated": 1774041985,
+    "source": "Jose-Gael-Cruz-Lopez"
   }
 ]
