@@ -2,6 +2,7 @@
 
 <img width="978" height="420" alt="image" src="https://github.com/user-attachments/assets/1e397ba3-7e69-4d88-a6f8-1b50827f8f3d" />
 
+---
 
 [![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/9c7372b6-b00d-4295-b86c-3e2a122c66fb.svg)](https://oosmetrics.com/repo/Jose-Gael-Cruz-Lopez/underclassmen-opportunities)
 
