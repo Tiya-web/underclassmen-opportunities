@@ -107,6 +107,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Scholarship | Amount | Application | Deadline |
 | ------ | ------------ | ----------- | ------ | ----------- | -------- |
+| 🔒 **[CLOSED]** | American Indian College Fund | American Indian College Fund Scholarship (Tribal Enrollment/Descendancy; 2.0+ GPA) :lock: | Varies; thousands awarded | :lock: | Closed (May 31, 2026) |
 | 🔒 **[CLOSED]** | NAACP | Agnes Jones Jackson Scholarship (NAACP Member; Under 25; 2.5+ GPA) :lock: | Varies | :lock: | Closed (May 22, 2026) |
 | 🔒 **[CLOSED]** | HACU | HACU Partner Scholarships (Hispanic Heritage; HACU-Member Colleges) :lock: | Varies; dozens of partner awards | :lock: | Closed (Rolling up to May 15, 2026 for most partners) |
 | 🔒 **[CLOSED]** | CrowdStrike | Next Gen Scholarship :lock: | Varies | :lock: | Closed (April 27, 2026) |
