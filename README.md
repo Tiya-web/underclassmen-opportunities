@@ -66,7 +66,6 @@ This is community-driven. If you find something, add it. Together we make the pa
 | ------ | ------- | ---- | -------- | ----------- | ----------- |
 | 🔥 **[CLOSING SOON]** | Apple | Software Undergrad Engineering Internships (Fall / Winter / Spring / Summer 2027) — Deadline: Rolling | Various Locations within United States | <a href="https://jobs.apple.com/en-us/details/200664785/Software-Undergrad-Engineering-Internships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
 | 🔥 **[CLOSING SOON]** | Apple | Machine Learning & AI Undergrad Internships (Fall / Winter / Spring / Summer 2027) — Deadline: Rolling | Various Locations within United States | <a href="https://jobs.apple.com/en-us/details/200664780-3810/machine-learning-and-artificial-intelligence-undergrad-internships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
-| ✅ **[OPEN]** | Five Rings LLC | Winter Intern 2027 - Quantitative Trader — Deadline: Check site | New York | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/5122638008"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 20, 2026 |
 <!-- INTERNSHIPS_TABLE_END -->
 
 ---
