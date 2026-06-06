@@ -23,6 +23,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Company | Role | Location | Application | Date Posted |
 | ------ | ------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | Five Rings LLC | Winter Intern 2027 - Quantitative Trader :lock: | New York | :lock: | Feb 20, 2026 |
 | 🔒 **[CLOSED]** | Harvard Black Advancement | HABA Summer Internship (Paid, $5,000 Stipend) :lock: | Remote / Hybrid | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Partiful | Campus Growth Manager (US Spring 2026) :lock: | Remote, US | :lock: | Mar 27, 2026 |
 | 🔒 **[CLOSED]** | Micron | Intern - Automation :lock: | Boise, ID | :lock: | Mar 22, 2026 |
