@@ -152,6 +152,7 @@ This page is a permanent record of every opportunity that has closed. These are 
 
 | Status | Organization | Opportunity | Type | Location | Application | Date Posted |
 | ------ | ------------ | ----------- | ---- | -------- | ----------- | ----------- |
+| 🔒 **[CLOSED]** | HBCUniverse | HBCU Universe Campus Ambassadors 2026 :lock: | Ambassador Program (HBCU Students) | Remote / Campus | :lock: | Apr 21, 2026 |
 | 🔒 **[CLOSED]** | Harvard Black Advancement | HABA Summer Internship (Paid, $5,000 Stipend) :lock: | Paid Internship | Remote / Hybrid | :lock: | Apr 14, 2026 |
 | 🔒 **[CLOSED]** | Thurgood Marshall College Fund / Chevron | TMCF Chevron Energy Summit 2026 :lock: | Energy Summit (Freshmen/Sophomores/Juniors at HBCU or PBI; US Citizens; Event: Aug 10–14, 2026) | Houston, TX | :lock: | Apr 24, 2026 |
 | 🔒 **[CLOSED]** | Thurgood Marshall College Fund | TMCF Leadership Institute 2026 :lock: | Conference + Recruitment (All Majors) | Washington, DC | :lock: | Apr 15, 2026 |
