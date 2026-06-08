@@ -62,10 +62,14 @@ This is community-driven. If you find something, add it. Together we make the pa
 
 
 <!-- INTERNSHIPS_TABLE_START -->
-| Status | Company | Role | Location | Application | Date Posted |
-| ------ | ------- | ---- | -------- | ----------- | ----------- |
-| 🔥 **[CLOSING SOON]** | Apple | Software Undergrad Engineering Internships (Fall / Winter / Spring / Summer 2027) — Deadline: Rolling | Various Locations within United States | <a href="https://jobs.apple.com/en-us/details/200664785/Software-Undergrad-Engineering-Internships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
-| 🔥 **[CLOSING SOON]** | Apple | Machine Learning & AI Undergrad Internships (Fall / Winter / Spring / Summer 2027) — Deadline: Rolling | Various Locations within United States | <a href="https://jobs.apple.com/en-us/details/200664780-3810/machine-learning-and-artificial-intelligence-undergrad-internships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
+| Company | Role | Location | Application | Date Posted |
+| ------- | ---- | -------- | ----------- | ----------- |
+| Harvard Black Advancement | HABA Summer Internship (Paid, $5,000 Stipend) :lock: | Remote, Hybrid | :lock: | Apr 18 |
+| Partiful | Campus Growth Manager :lock: | Remote, US | :lock: | Mar 27 |
+| Micron | Intern - Automation :lock: | Boise, ID | :lock: | Mar 22 |
+| Schonfeld | 2026 Quantitative Developer Execution Services Sophomore Summer Internship :lock: | New York, New York, United States | :lock: | Feb 20 |
+| Five Rings LLC | Winter Intern 2027 - Quantitative Trader :lock: | New York | :lock: | Feb 20 |
+| Deloitte | Audit & Assurance - Discovery Intern (Sophomore/Junior) - Summer 2026 :lock: | Los Angeles, CA, Seattle, WA, Tempe, AZ | :lock: | Feb 19 |
 <!-- INTERNSHIPS_TABLE_END -->
 
 ---
@@ -76,32 +80,66 @@ This is community-driven. If you find something, add it. Together we make the pa
 
 
 <!-- PROGRAMS_TABLE_START -->
-| Status | Company | Program | Type | Location | Application | Date Posted |
-| ------ | ------- | ------- | ---- | -------- | ----------- | ----------- |
-| 🔥 **[CLOSING SOON]** | Neo | Neo Scholars — Deadline: June 14, 2026 (Rolling Admission) | CS Undergrad Program (Open to Undergrads Who Excel at CS) | San Francisco, CA / Remote | <a href="https://neo.com/scholars"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
-| 🔥 **[CLOSING SOON]** | PwC | PwC AI Externships — Deadline: Rolling | Project-Based Externship via Extern.com (Portfolio + Resume Building; AI Tools) | Remote | <a href="https://www.extern.com/pwc-ai-externships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
-| 🔥 **[CLOSING SOON]** | Databricks | Databricks Student Fellows Program — Deadline: Check site | Student Fellowship (Data + AI; High-Demand Skills Development; Open to Undergrads) | Remote | <a href="https://www.databricks.com/university/student-fellows"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
-| 🔥 **[CLOSING SOON]** | Five Rings LLC | LINK 2026 — Software Development Intensive — Deadline: Check site (Event: Aug 10–14, 2026) | 5-Day Intensive (Current Sophomores Only) | New York, NY | <a href="https://job-boards.greenhouse.io/fiveringsllc/jobs/4988120008"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
-| 🔥 **[CLOSING SOON]** | Salesforce | AI Builder, Emerging Talent (Futureforce) — Deadline: Check site | Emerging Talent Program (Undergrads; Futureforce University Recruiting) | Multiple Locations | <a href="https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/AI-Builder--Emerging-Talent_JR341276-1"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
-| 🔥 **[CLOSING SOON]** | Out in Tech | Out in Tech U Launch Lab — Deadline: Rolling | Free 5-Session Virtual Cohort (LGBTQ+; Ages 18–25; Leadership + Mentorship; No Prior Experience Required) | Virtual | <a href="https://outintech.com/mentorship-program/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
-| ✅ **[OPEN]** | Kaggle / Google | Kaggle GenAI Intensive: Vibe Coding — Deadline: Check site (Event: Jun 15–19, 2026) | Free Online Course (AI Agents; Vibe Coding; Open to All; No Prior Experience Required) | Remote | <a href="https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 01, 2026 |
-| 🔥 **[CLOSING SOON]** | Paradigm | Paradigm Fellowship 2026 — Deadline: June 8, 2026 (Event: Aug 12–15, 2026) | 4-Day Retreat (Undergrads / Early Career Builders; Technical; Travel + Lodging + Meals Covered) | Northern California | <a href="https://paradigm.xyz/fellowship-2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 01, 2026 |
-| ✅ **[OPEN]** | SHPE | 2026 SHPE National Convention — Deadline: Check site (Event: Oct 28–31, 2026) | Career Convention (Hispanic Engineering Students; Travel Assistance Available) | Indianapolis, IN | <a href="https://shpe.org/2026-shpe/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 01, 2026 |
-| ✅ **[OPEN]** | ElevenLabs | ElevenLabs Ambassador Program — Deadline: Rolling | Ambassador Program (Community Builder / Content Creator; 18+; Platform Credits + Event Funding; Paid Opportunities Unlock Over Time) | Remote / Global | <a href="https://elevenlabs.io/ambassador"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 01, 2026 |
-| ✅ **[OPEN]** | CodeDay | ToorCamp 2026 — Deadline: Check site (Event: Jun 24–28, 2026) | Hacker Convention / Tech Camp (Free Tickets; Most Applicants Accepted; Travel Support Available Outside Seattle; Meals Covered) | Orcas Island, WA | <a href="https://www.codeday.org/f/toorcamp2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 01, 2026 |
-| ✅ **[OPEN]** | Wells Fargo | 2026 ChangeMakers Summit — Deadline: Check site (Event: Sep 22–24, 2026) | Leadership Summit (Class of 2028; Bachelor's Degree; US Work Authorized; No Visa Sponsorship) | Charlotte, NC | <a href="https://talent.wellsfargojobs.com/flows/2026-changemakers-summit-mir8kbo3y"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 01, 2026 |
-| ✅ **[OPEN]** | Meta | Meta Career Programs: Virtual Learning Series 2026 — Deadline: Check site | Virtual Learning Series (All Classifications) | Virtual | <a href="https://events.atmeta.com/metacareerprogramsvirtuallearningseries20261"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 21, 2026 |
-| ✅ **[OPEN]** | Microsoft | Microsoft Learn Student Ambassadors — Deadline: Rolling | Ambassador / Leadership Program (Any Major; 16+; All Disciplines) | Global / Campus | <a href="https://mvp.microsoft.com/studentambassadors"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 19, 2026 |
-| ✅ **[OPEN]** | Capital One | Product Summit (Summer 2026) — Deadline: Check site | Virtual Summit (Freshmen/Sophomores) | Virtual | <a href="https://capitalone.eightfold.ai/events/candidate?plannedEventId=rPxvMjM7"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 16, 2026 |
-| ✅ **[OPEN]** | ServiceNow | Externship Program 2026 — Deadline: Check site | Externship | Multiple Locations | <a href="https://servicenow.swoogo.com/ExternshipProgram2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 14, 2026 |
-| ✅ **[OPEN]** | GirlScript Foundation | GSSoC 2026 - GirlScript Summer of Code — Deadline: Check site | Open Source Program | Remote | <a href="https://gssoc.girlscript.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 11, 2026 |
-| ✅ **[OPEN]** | Royal Caribbean | Early Career Immersion Program — Deadline: Check site | Immersion Program | Miami, FL | <a href="https://jobs.royalcaribbeangroup.com/job/Miami-Early-Career-Immersion-Program-August-2026-FL-33132/1373237400"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 07, 2026 |
-| ✅ **[OPEN]** | Handshake | AI Fellowship Program — Deadline: Check site | Fellowship | Remote | <a href="https://joinhandshake.com/ai/referral?referralCode=1F636E&utm_source=referral"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06, 2026 |
-| ✅ **[OPEN]** | WomenHack | Women in Tech Career Fair — Deadline: Varies per event | Career Fair | Multiple US Cities | <a href="https://womenhack.com/events/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20, 2026 |
-| ✅ **[OPEN]** | GirlsWhoML | Thinking About Thinking 2026 Ambassador Programme — Deadline: Check site | Ambassador Programme | London, UK | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfh6jXrV8-2rtNAhmLDG8vnH7X683aVc-hkqHLjrMVfJV7Z0w/viewform"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 04, 2026 |
-| ✅ **[OPEN]** | Y Combinator | Startup School 2026 — Deadline: July 25–26, 2026 (In-Person SF) | Online Course + Event | San Francisco, CA / Remote | <a href="https://events.ycombinator.com/startup-school-2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 08, 2026 |
-| ✅ **[OPEN]** | NSN (National Sales Network) | 2026 NSN Student Sales & Marketing Conference — Deadline: Rolling (Event: Sep 12–14, 2026) | Conference (All-Expenses-Paid; Diverse Undergrad/Grad; Sales & Marketing) | Atlanta, GA (Loews Hotel) | <a href="https://plus.mcievents.com/event/82045c6a-f96b-43af-9944-670ab6957417/register"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06, 2026 |
-| ✅ **[OPEN]** | MLH (Major League Hacking) | MLH Fellowship — Deadline: Rolling (Summer Batch: May 18–Aug 7, 2026) | Fellowship | Remote | <a href="https://fellowship.mlh.io/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 27, 2026 |
+| Company | Program | Type | Location | Application | Date Posted |
+| ------- | ------- | ---- | -------- | ----------- | ----------- |
+| Thurgood Marshall College Fund | TMCF Hennessy Fellows Program - Cohort 8 (2026) | Fellowship (Graduating Seniors & MBA) | Multiple Locations | <a href="https://whosnext.tmcf.org/jobs/1622?lang=en-us"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 19 |
+| White House Initiative on HBCUs | White House HBCU Scholars Program (All Majors) | Recognition / Fellowship | Remote | <a href="https://sites.ed.gov/whhbcu/whihbcu-competitiveness-scholars/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 19 |
+| ServiceNow | Externship Program 2026 | Externship | Multiple Locations | <a href="https://servicenow.swoogo.com/ExternshipProgram2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 18 |
+| Capital One | Product Summit (Summer 2026) | Virtual Summit | Virtual | <a href="https://capitalone.eightfold.ai/events/candidate?plannedEventId=rPxvMjM7"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 15 |
+| Jane Street | WiSE - Women in Science & Engineering | Program (Rising Freshmen Women) | New York, NY | <a href="https://www.janestreet.com/join-jane-street/programs-and-events/wise/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 15 |
+| GirlScript Foundation | GSSoC 2026 - GirlScript Summer of Code | Open Source Program | Remote | <a href="https://gssoc.girlscript.org/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 15 |
+| Y Combinator | Startup School 2026 | Online Course + Event | San Francisco, CA, Remote | <a href="https://events.ycombinator.com/startup-school-2026"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 07 |
+| Royal Caribbean | Early Career Immersion Program | Immersion Program | Miami, FL | <a href="https://jobs.royalcaribbeangroup.com/job/Miami-Early-Career-Immersion-Program-August-2026-FL-33132/1373237400"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
+| mcievents.com | 2026 NSN Student Sales & Marketing Conference | Conference | Multiple Locations | <a href="https://plus.mcievents.com/event/82045c6a-f96b-43af-9944-670ab6957417/register"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
+| Handshake | AI Fellowship Program | Fellowship | Remote | <a href="https://joinhandshake.com/ai/referral?referralCode=1F636E&utm_source=referral"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Apr 06 |
+| MLH (Major League Hacking) | MLH Fellowship | Fellowship | Remote | <a href="https://fellowship.mlh.io/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 27 |
+| WomenHack | Women in Tech Career Fair | Career Fair | Multiple US Cities | <a href="https://womenhack.com/events/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Mar 20 |
+| GirlsWhoML | Thinking About Thinking 2026 Ambassador Programme | Ambassador Programme | London, UK | <a href="https://docs.google.com/forms/d/e/1FAIpQLSfh6jXrV8-2rtNAhmLDG8vnH7X683aVc-hkqHLjrMVfJV7Z0w/viewform"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Feb 04 |
+| Accenture | Level Up Co-Op / Elevate to Innovate :lock: | Externship / Co-Op (Rising Sophomores+) | Multiple Locations | :lock: | Apr 19 |
+| Forté Foundation | Forté Rising Stars (All Majors - Business Career Prep) :lock: | Program (Free Membership) | Remote | :lock: | Apr 19 |
+| Goldman Sachs | Market Madness: HBCU Possibilities Program :lock: | 4-Month Immersive (Finance/Business) | Multiple Locations | :lock: | Apr 19 |
+| JPMorgan Chase | Winning Women (Sophomore/Junior) :lock: | Program (Finance, Markets, AM) | New York, NY, Multiple Locations | :lock: | Apr 19 |
+| Morgan Stanley | Freshman Enhancement + Sophomore Early Insights (Women's Track) :lock: | Program (Finance/Business) | New York, NY, Multiple Locations | :lock: | Apr 19 |
+| Thurgood Marshall College Fund | TMCF Leadership Institute 2026 :lock: | Conference + Recruitment (All Majors) | Washington, DC | :lock: | Apr 19 |
+| Anthropic | Anthropic Fellows Program :lock: | Research Fellowship | Berkeley, CA, London, UK, Remote | :lock: | Apr 18 |
+| Bain & Company | First Forward :lock: | Sophomore Summit (FGLI / First-Gen) | <details><summary>6 locations</summary>Boston, MA, New York, NY, San Francisco, CA, Chicago, IL, Denver, CO, Washington, DC</details> | :lock: | Apr 18 |
+| Constellation | Astra Fellowship (Summer 2026) :lock: | AI Safety Fellowship | Berkeley, CA | :lock: | Apr 18 |
+| Deloitte | Compass Conference (Class of 2029-2030) :lock: | Career Conference | Westlake, TX | :lock: | Apr 18 |
+| Wayfair | Early Leaders Program :lock: | Sophomore Immersion | Boston, MA | :lock: | Apr 18 |
+| IMC Trading | US Chess Academy 2026 :lock: | Chess Competition | Chicago, IL, Virtual Qualifiers | :lock: | Apr 15 |
+| Global Career Accelerator | Career Accelerator Program (Summer) :lock: | Program | Virtual | :lock: | Apr 07 |
+| Paragon | Paragon Policy Fellowship - Summer 2026 :lock: | Fellowship | Remote | :lock: | Apr 07 |
+| SEO | SEO Tech Developer :lock: | Fellowship | New York, NY | :lock: | Apr 07 |
+| AWS | Cloud Club Captain :lock: | Leadership Program | Multiple Locations | :lock: | Apr 06 |
+| Equitech Futures | Equitech Futures Institute :lock: | Program | Virtual | :lock: | Apr 06 |
+| GoDaddy | 2026 Future of Work Summer Camp :lock: | Pre-Internship Program | Kirkland, WA | :lock: | Apr 06 |
+| Google | Google Summer of Code 2026 :lock: | Fellowship | Remote | :lock: | Mar 27 |
+| Students Rising Above (SRA) | SOAR First-Year Program :lock: | Mentorship Program | Remote, US | :lock: | Mar 27 |
+| Wells Fargo | CTRL Your Career Tech Summit - Sophomore Edition :lock: | Tech Summit | United States | :lock: | Mar 24 |
+| UNCF | HBCU Future Leaders Institute :lock: | Leadership Institute | Atlanta, GA | :lock: | Mar 22 |
+| Global Career Accelerator | Career Accelerator Program :lock: | Program | Virtual | :lock: | Mar 20 |
+| Outreachy | Open Source Internship - May 2026 :lock: | Internship | Remote | :lock: | Mar 20 |
+| Rewriting the Code | RTC Fellowship Program :lock: | Fellowship | United States, Canada | :lock: | Mar 20 |
+| WomenTech Network | Women in Tech Global Conference 2026 :lock: | Conference | Virtual + Multiple Cities | :lock: | Mar 20 |
+| Nike | Yello :lock: | Program | Multiple Locations | :lock: | Mar 20 |
+| JP Morgan Chase | Yello :lock: | Program | Multiple Locations | :lock: | Mar 19 |
+| Kohl's | Emerging Talent Summit :lock: | Program | Multiple Locations | :lock: | Mar 19 |
+| Fidelity Investments | FidHacks :lock: | Hackathon | Multiple Locations | :lock: | Mar 19 |
+| Hudson River Trading | Inside HRT :lock: | Externship | New York City, NY | :lock: | Mar 04 |
+| GE Aerospace | L.I.F.T. Summit :us: :lock: | Recruiting Event | Cincinnati, OH | :lock: | Feb 23 |
+| NASA L'SPACE Academy | Mission Concept Academy :us: :lock: | Program | Multiple Locations | :lock: | Feb 19 |
+| AQR Capital Management | AQR Discovery - Early Engagement Program :lock: | Early Engagement Program | Greenwich, CT | :lock: | Feb 19 |
+| Liberty Mutual | 2026 Unite Summit - Exploratory Program :lock: | Discovery Program | Boston, MA | :lock: | Feb 19 |
+| Salesforce | Futureforce Tech Launchpad 2026 :lock: | Pre-Internship | San Francisco, CA | :lock: | Feb 19 |
+| Millennium | Meet Millennium 2026 Miami :lock: | Networking Event | Miami, FL | :lock: | Feb 19 |
+| Millennium | Meet Millennium 2026 London :lock: | Networking Event | London, UK | :lock: | Feb 19 |
+| Millennium | Meet Millennium 2026 Singapore :lock: | Networking Event | Singapore | :lock: | Feb 19 |
+| Millennium | Meet Millennium 2026 Bangalore :lock: | Networking Event | Bangalore, India | :lock: | Feb 19 |
+| Hudson River Trading | Explore HRT - NYC :lock: | Program | New York, NY | :lock: | Feb 19 |
+| AI4ALL | AI4ALL Ignite :lock: | Career Accelerator | Multiple Locations | :lock: | Feb 09 |
+| Citadel | Fixed Income and Macro Central Bank Challenge :lock: | Competition | New York, London | :lock: | Feb 09 |
+| EY | EY Expedition :lock: | Not Specified | Multiple Locations | :lock: | Feb 04 |
+| American Express | Campus Opportunities :lock: | Campus Opportunities | Multiple Locations | :lock: | Feb 04 |
 <!-- PROGRAMS_TABLE_END -->
 
 ---
@@ -112,10 +150,27 @@ This is community-driven. If you find something, add it. Together we make the pa
 
 
 <!-- RESEARCH_TABLE_START -->
-| Status | University/Organization | Program | Field | Location | Application | Date Posted |
-| ------ | ----------------------- | ------- | ----- | -------- | ----------- | ----------- |
-| 🔥 **[CLOSING SOON]** | Carnegie Mellon University | CMU Quantum Summer Academy — Deadline: Check site (Flyer) | Quantum Computing / Research Academy (Undergrads) | Pittsburgh, PA | <a href="https://www.cs.cmu.edu/afs/cs/project/careers/www/posters/CMU-Quantum-Summer-Academy-flyer.pdf"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 28, 2026 |
-| ✅ **[OPEN]** | UMass Amherst | QNumerics 2026: Numerical Methods in Quantum Information Science — Deadline: Check site (Jun 21–27, 2026) | Quantum Information Science / Computational Skills (Undergrads Admitted Case-by-Case; Free for Undergrads) | Amherst, MA | <a href="https://qnumerics.org/2026/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | May 01, 2026 |
+| University/Organization | Program | Field | Location | Application | Date Posted |
+| ----------------------- | ------- | ----- | -------- | ----------- | ----------- |
+| CBAI | Summer Research Fellowship in AI Safety '26 :lock: |  | Cambridge, MA | :lock: | Apr 06 |
+| CRA-WP | DREU-QIS & AI 2026 :lock: |  | Multiple Locations | :lock: | Apr 06 |
+| MIT Libraries | Women@MIT Fellowship :lock: | Women's History / STEM | Cambridge, MA | :lock: | Mar 27 |
+| SACNAS | 2026 SACNAS Annual Conference - Research Presentations :lock: |  | Long Beach, CA | :lock: | Mar 22 |
+| Brown University | NSF REU - AI for Computational Creativity :lock: | Artificial Intelligence | Providence, RI | :lock: | Feb 19 |
+| Caltech | SURF - Summer Undergraduate Research Fellowship :lock: | Computer Science, Engineering, STEM | Pasadena, CA | :lock: | Feb 19 |
+| Carnegie Mellon University | REUSE - Research Experiences for Undergraduates in Software Engineering :lock: | Software Engineering, ML, Security | Pittsburgh, PA | :lock: | Feb 19 |
+| Carnegie Mellon University | SPUR - Security and Privacy Undergraduate Research Scholars :lock: | Cybersecurity, Privacy | Pittsburgh, PA | :lock: | Feb 19 |
+| Carnegie Mellon University | SURE - Summer Undergraduate Research Experience :lock: | Computer Science | Pittsburgh, PA | :lock: | Feb 19 |
+| Cornell University | AI-MI Summer Undergraduate Research Program :lock: | AI, Materials Science | Ithaca, NY | :lock: | Feb 19 |
+| CRA-WP | DREU - Distributed Research Experiences for Undergraduates :lock: | Computer Science, Computing | Multiple Locations | :lock: | Feb 19 |
+| Los Alamos National Laboratory | Cyber Fire - Cybersecurity Science Research Program :lock: | Cybersecurity, AI/ML | Los Alamos, NM | :lock: | Feb 19 |
+| LSU | CCT Summer REU - Computational Research :lock: | AI, Quantum Computing, Cybersecurity | Baton Rouge, LA | :lock: | Feb 19 |
+| Penn State University | NSF REU - Machine Learning in Cybersecurity :lock: | Machine Learning, Cybersecurity | University Park, PA | :lock: | Feb 19 |
+| Temple University | NSF REU - High Performance Computing Tools :lock: | High Performance Computing | Philadelphia, PA | :lock: | Feb 19 |
+| UChicago | Data Science Institute Summer Lab :lock: | Data Science | Chicago, IL | :lock: | Feb 19 |
+| UMBC | NSF Big Data REU Site :lock: | Big Data, Data Science | Remote | :lock: | Feb 19 |
+| University of Minnesota | Computer Science REU :lock: | Computer Science | Minneapolis, MN | :lock: | Feb 19 |
+| USC Viterbi | CURVE - Center for Undergraduate Research in Viterbi Engineering :lock: | Computer Science, Engineering | Los Angeles, CA | :lock: | Feb 19 |
 <!-- RESEARCH_TABLE_END -->
 
 ---
@@ -125,19 +180,37 @@ This is community-driven. If you find something, add it. Together we make the pa
 
 
 <!-- SCHOLARSHIPS_TABLE_START -->
-| Status | Organization | Scholarship | Amount | Application | Deadline |
-| ------ | ------------ | ----------- | ------ | ----------- | -------- |
-| ✅ **[OPEN]** | Women & Hi Tech | Leading Light Awards Scholarships (Women in STEM; HS Seniors / Undergrads / Grads; Indiana-based or Attending Indiana School) | $1,000–$5,000 (Multiple Awards; $50K+ Total Pool) | <a href="https://womenandhitech.org/LLA"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | July 5, 2026 |
-| ✅ **[OPEN]** | MPOWER Financing | MPOWER Global Citizen Scholarship | $1,000 - $8,000 | <a href="https://www.mpowerfinancing.com/scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | August 31, 2026 |
-| ✅ **[OPEN]** | Last Mile Education Fund x Microsoft | Microsoft Cybersecurity Scholarship | Varies | <a href="https://www.lastmile-ed.org/microsoftcybersecurityscholarship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Rolling |
-| ✅ **[OPEN]** | Last Mile Education Fund | Last Mile Fund | Up to $10,000 | <a href="https://www.lastmile-ed.org/apply"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Rolling |
-| ✅ **[OPEN]** | Apex Hosting | Minecraft Scholarship (HS/College; 3.0+ GPA; 500-word essay) | $2,000 (annual) | <a href="https://apexminecrafthosting.com/minecraft-scholarship/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | July 31, 2026 |
-| ✅ **[OPEN]** | Unigo | Make Me Laugh Scholarship (Age 14+; 250-word humorous essay) | $1,500 | <a href="https://www.unigo.com/scholarships/our-scholarships/make-me-laugh-scholarship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | August 31, 2026 |
-| ✅ **[OPEN]** | Cirkled In | No Sweat Scholarship (Age 12+; No Essay) | $2,500 | <a href="https://www.cirkledin.com/scholarships/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Monthly drawings |
-| ✅ **[OPEN]** | Niche | $2,000 No-Essay Scholarship (Age 16+; HS Jr/Sr or College) | $2,000 | <a href="https://www.niche.com/colleges/scholarship/no-essay-scholarship/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Monthly drawings |
-| ✅ **[OPEN]** | Bold.org | "Be Bold" No-Essay Scholarship (Age 13+; Boldest Profile) | $25,000 | <a href="https://bold.org/scholarships/the-be-bold-no-essay-scholarship/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Monthly drawings |
-| ⏳ **[OPENS SOON]** | Point Foundation | Point Flagship Scholarship (LGBTQ+; Full-Time Undergrad/Grad) | ~$10,000/yr (renewable up to 4 yrs) | <a href="https://pointfoundation.org/scholarships/flagship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | November 20, 2026 (Opens September 10, 2026) |
-| ✅ **[OPEN]** | Unigo | Zombie Apocalypse Scholarship (Age 13+; Survival-Group Essay; 250-Word Plan) | $2,000 | <a href="https://www.unigo.com/scholarships/our-scholarships/zombie-apocalypse-scholarship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | October 31, 2026 |
+| Organization | Scholarship | Amount | Application | Deadline |
+| ------------ | ----------- | ------ | ----------- | -------- |
+| AAUW | AAUW Local Branch Undergraduate Scholarships (All Majors) | Varies | <a href="https://www.aauw.org/resources/member/leader-resources-tools/students-campus-professionals/local-scholarships/"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Varies |
+| UNCF | UNCF Scholarships Portal (All Majors) | Varies | <a href="https://opportunities.uncf.org/s/pre-login-welcome-page"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Varies |
+| Last Mile Education Fund x Microsoft | Microsoft Cybersecurity Scholarship | Varies | <a href="https://www.lastmile-ed.org/microsoftcybersecurityscholarship"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Varies |
+| Last Mile Education Fund | Last Mile Fund | Up to $10,000 | <a href="https://www.lastmile-ed.org/apply"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Rolling |
+| MPOWER Financing | MPOWER Global Citizen Scholarship | $1,000 - $8,000 | <a href="https://www.mpowerfinancing.com/scholarships"><img src="https://img.shields.io/badge/Apply-blue?style=for-the-badge" alt="Apply"></a> | Aug 31, 2026 |
+| AnitaB.org | Grace Hopper Celebration / Kamala Scholars :lock: | Varies | :lock: | Varies |
+| Create Real Impact | Create Real Impact Contest (Ages 14-22) :lock: | Varies | :lock: | Varies |
+| Google | Women Techmakers Scholarship 2026 :lock: | Varies | :lock: | Varies |
+| Jack Kent Cooke Foundation | Young Artist Award (Pre-Collegiate Musicians, Ages 8-18) :lock: | Varies | :lock: | Varies |
+| Lightroom Presets | Pretty Lightroom Presets Photography Scholarship :lock: | Varies | :lock: | Varies |
+| UNCF | Target Scholars Program (First-Year HBCU) :lock: | Varies | :lock: | Varies |
+| Cruzing Forward | Cruzing Forward Scholarship :lock: | Varies | :lock: | Varies |
+| CrowdStrike | Next Gen Scholarship :lock: | Varies | :lock: | Varies |
+| Advancing Women in Technology | AWT Scholarship 2026 :lock: | Varies | :lock: | Check Portal |
+| Chime | Chime Scholars Foundation :lock: | Up to $20,000 | :lock: | Mar 31, 2026 |
+| CopperPoint Insurance | CopperPoint Community Scholarship :lock: | Varies | :lock: | Closed |
+| Feeding Student Success | Feeding Student Success Scholarship 2026-27 :lock: | Varies | :lock: | Closed (Feb 13) |
+| Global Game Jam | GDC Festival of Games 2026 Scholarship :lock: | Varies | :lock: | Closed |
+| Guild Giving Foundation | Guild Giving National Scholarship :lock: | $1,500 | :lock: | Apr 10, 2026 |
+| Hispanic Scholarship Fund | HSF Scholar Program 2026 :lock: | $500 - $5,000 | :lock: | Closed (Feb 15) |
+| Invictus Capital Partners | Invictus/Verus Scholarship :lock: | $5,000 | :lock: | Closed (Mar 12) |
+| Microsoft | Black at Microsoft Scholarship :lock: | $2,500 - $5,000 | :lock: | Closed (Mar 16) |
+| Obama Foundation | Obama-Chesky Voyager Scholarship :lock: | Up to $50,000+ | :lock: | Closed (Mar 17) |
+| Presidio | Presidio Future Built Scholarship :lock: | Varies | :lock: | Closed |
+| Scholarship America | Dream Award :lock: | Up to $10,000/yr | :lock: | Closed |
+| Silicon Valley Community Foundation | Latinos in Technology Scholarship :lock: | Up to $18,000 | :lock: | Check Portal |
+| The Executive Leadership Council | ELC Scholarship Program :lock: | Varies | :lock: | Check Portal |
+| TIAA | TIAA First-Generation Scholarship :lock: | $5,000 - $10,000 | :lock: | Closed (Feb 26) |
+| Western Digital | Western Digital STEM Scholarship :lock: | $5,000 | :lock: | Apr 1, 2026 |
 <!-- SCHOLARSHIPS_TABLE_END -->
 
 ---
